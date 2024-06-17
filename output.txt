@@ -1,0 +1,12 @@
+#0;Ap;1;1;file.txt;#
+#0;amar;1;1;file.txt;#
+#0;all;1;1;file1.txt;#
+#4;Emerxte;1;1;file.txt;#
+#4;emertxe;1;1;file1.txt;#
+#7;hi;1;1;file1.txt;#
+#7;hello;1;1;file1.txt;#
+#7;how;1;1;file1.txt;#
+#7;Hi;1;1;file1.txt;#
+#9;jashuva;1;1;file.txt;#
+#10;kurnool;1;1;file.txt;#
+#13;navven;1;1;file.txt;#
